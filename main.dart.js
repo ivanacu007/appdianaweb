@@ -44628,7 +44628,7 @@ case 2:return A.X(null,r)}})
 return A.Y($async$zL,r)},
 EF(){var s=A.aHb("dd/MM/yyyy"),r=this.ax
 if(r!=null)this.ay="Tiempo transcurrido desde "+s.c3(r)+" hasta el d\xeda de hoy"
-else this.ay="Tiempo transcurrido desde que conoc\xed a Diana Laura Vaca Campos \u2728"}}
+else this.ay="Tiempo transcurrido desde que conoc\xed a Diana Laura ✨ \u2728"}}
 A.akx.prototype={
 $1(a){return this.a.Vt(this.b)},
 $S:98}
